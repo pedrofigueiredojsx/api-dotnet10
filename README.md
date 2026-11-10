@@ -1,13 +1,13 @@
-# 🚀 API CRUD - C# e .NET 8
+# 🚀 API CRUD - C# e .NET 10
 
-Projeto desenvolvido durante os estudos de **C# e .NET 8**, baseado na série [Jornada do Herói](https://www.youtube.com/), apresentada por Henrique Giaretta.
+Projeto desenvolvido durante os estudos de **C# e .NET 10**, baseado na série [Jornada do Herói](https://www.youtube.com/), apresentada por Henrique Giaretta.
 
 O objetivo do projeto é desenvolver uma API REST utilizando **Minimal APIs**, aplicando conceitos de organização de código, persistência de dados e operações CRUD (Create, Read, Update e Delete).
 
 ## 🛠️ Tecnologias utilizadas
 
 - **C#** – Linguagem de programação.
-- **.NET 8** – Framework para desenvolvimento da API.
+- **.NET 10** – Framework para desenvolvimento da API.
 - **ASP.NET Core Minimal APIs** – Construção de endpoints HTTP.
 - **Entity Framework Core** – ORM para comunicação com o banco de dados.
 - **SQLite** – Banco de dados relacional.
